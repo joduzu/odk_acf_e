@@ -1,5 +1,5 @@
 [main]
-host = https://www.transifex.com
+host = https://odk.acf-e.org/
 
 [odk-collect.strings]
 source_file = res/values/strings.xml
